@@ -46,7 +46,7 @@
 .nav ul li:hover .sub-menu{
     display: block;
     position: absolute;
-    background: #ebcd1e;;
+    background: #ebcd1e;
     top: 60px;
 }
 .sub-menu ul{
@@ -93,8 +93,6 @@
 /* page-1 : landing page ------------------------------------*/
 .page-1{
     height: 90vh;
-    /* min-width: 100vw; */
-    background-color: red;
     background-position: center;
     animation: crosole 5s infinite;
     flex-direction: column;
